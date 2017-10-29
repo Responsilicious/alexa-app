@@ -20,8 +20,8 @@
     ],
     "require": {
          "php": "~7.0",
-        "illuminate/routing": "5.4.*",
-        "illuminate/http": "5.4.*"
+        "illuminate/routing": "~5",
+        "illuminate/http": "~5"
 
      },
     "autoload": {
