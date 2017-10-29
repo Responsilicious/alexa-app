@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Develpr\\AlexaApp\\": "src"
+            "Responsilicious\\AlexaApp\\": "src"
         }
     },
     "autoload-dev": {
@@ -32,12 +32,12 @@
             "tests/"
         ],
         "psr-4": {
-            "Develpr\\Tests\\": "tests"
+            "Responsilicious\\Tests\\": "tests"
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "stable"
+            "dev": "stable"
         }
     }
 }
