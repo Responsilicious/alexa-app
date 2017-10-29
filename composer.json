@@ -1,5 +1,5 @@
 {
-    "name": "responsilicious/alexa-app",
+    "name": "Responsilicious/alexa-app",
     "description": "Set of classes to make creating simple Amazon Echo Alexa Apps easier with Lumen and to a lesser extent Laravel",
     "license": "MIT",
     "keywords": ["echo", "Amazon Echo", "Alexa", "AlexaApp", "Lumen", "Laravel"],
@@ -17,7 +17,7 @@
     ],
     "require": {
          "php": "~7.0",
-         "responsilicious/alexa-app": "dev-master"
+         "Responsilicious/alexa-app": "dev-master"
      },
     "require-dev": {
         "phpunit/phpunit": "~5.7",
