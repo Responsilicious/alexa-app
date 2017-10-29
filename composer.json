@@ -7,6 +7,9 @@
         {
             "name": "Kevin Mitchell",
             "email": "kevin@develpr.com"
+        },
+        {
+            "version": "0.3.4"
         }
     ],
     "repositories": [
