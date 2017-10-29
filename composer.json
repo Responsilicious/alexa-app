@@ -9,8 +9,15 @@
             "email": "kevin@develpr.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Responsilicious/alexa-app"
+        }
+    ],
     "require": {
-         "php": "~7.0"
+         "php": "~7.0",
+         "responsilicious/alexa-app": "dev-master"
      },
     "require-dev": {
         "phpunit/phpunit": "~5.7",
