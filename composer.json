@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-         "php": ">=5.5.9",
+         "php": ">=7",
          "illuminate/routing": "5.4.*"
      },
     "require-dev": {
